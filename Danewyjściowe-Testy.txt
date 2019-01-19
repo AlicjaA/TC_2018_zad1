@@ -1,0 +1,8 @@
+﻿[18.01.2019 18:52:56 Informational] ------ Wykrywanie testów rozpoczęte ------
+[18.01.2019 18:53:00 Informational] ========== Wykrywanie testów zakończone: odnaleziono 23 (0:00:03,9935417) ==========
+[18.01.2019 18:53:00 Informational] ------ Uruchomiono przebieg testu ------
+[18.01.2019 18:53:03 Informational] ========== Wykonywanie testów zakończone: wykonano 23 (0:00:02,8562426) ==========
+[18.01.2019 18:55:19 Informational] ------ Wykrywanie testów rozpoczęte ------
+[18.01.2019 18:55:21 Informational] ========== Wykrywanie testów zakończone: odnaleziono 23 (0:00:01,8578561) ==========
+[18.01.2019 18:55:21 Informational] ------ Uruchomiono przebieg testu ------
+[18.01.2019 18:55:25 Informational] ========== Wykonywanie testów zakończone: wykonano 23 (0:00:03,8376366) ==========
